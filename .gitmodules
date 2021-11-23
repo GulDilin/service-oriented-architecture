@@ -1,0 +1,12 @@
+[submodule "service-oriented-architecture-actions-jaxrs-api"]
+	path = service-oriented-architecture-actions-jaxrs-api
+	url = git@github.com:GulDilin/service-oriented-architecture-actions-jaxrs-api.git
+[submodule "service-oriented-architecture-spring-api"]
+	path = service-oriented-architecture-spring-api
+	url = git@github.com:GulDilin/service-oriented-architecture-spring-api.git
+[submodule "service-oriented-architecture-servlets-api"]
+	path = service-oriented-architecture-servlets-api
+	url = git@github.com:GulDilin/service-oriented-architecture-servlets-api.git
+[submodule "service-oriented-architecture-frontend"]
+	path = service-oriented-architecture-frontend
+	url = git@github.com:GulDilin/service-oriented-architecture-frontend.git
