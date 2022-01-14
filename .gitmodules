@@ -1,12 +1,15 @@
-[submodule "service-oriented-architecture-actions-jaxrs-api"]
-	path = service-oriented-architecture-actions-jaxrs-api
-	url = git@github.com:GulDilin/service-oriented-architecture-actions-jaxrs-api.git
-[submodule "service-oriented-architecture-spring-api"]
-	path = service-oriented-architecture-spring-api
-	url = git@github.com:GulDilin/service-oriented-architecture-spring-api.git
-[submodule "service-oriented-architecture-servlets-api"]
-	path = service-oriented-architecture-servlets-api
-	url = git@github.com:GulDilin/service-oriented-architecture-servlets-api.git
-[submodule "service-oriented-architecture-frontend"]
-	path = service-oriented-architecture-frontend
-	url = git@github.com:GulDilin/service-oriented-architecture-frontend.git
+[submodule "lab1/service-oriented-architecture-frontend"]
+	path = lab1/service-oriented-architecture-frontend
+	url = https://github.com/GulDilin/service-oriented-architecture-frontend
+[submodule "lab1/service-oriented-architecture-servlets-api"]
+	path = lab1/service-oriented-architecture-servlets-api
+	url = https://github.com/GulDilin/service-oriented-architecture-servlets-api
+[submodule "lab2/service-oriented-architecture-frontend"]
+	path = lab2/service-oriented-architecture-frontend
+	url = https://github.com/GulDilin/service-oriented-architecture-frontend
+[submodule "lab2/service-oriented-architecture-spring-api"]
+	path = lab2/service-oriented-architecture-spring-api
+	url = https://github.com/GulDilin/service-oriented-architecture-spring-api
+[submodule "lab2/service-oriented-architecture-actions-jaxrs-api"]
+	path = lab2/service-oriented-architecture-actions-jaxrs-api
+	url = https://github.com/GulDilin/service-oriented-architecture-actions-jaxrs-api
